@@ -17,7 +17,10 @@
 
 ### 运行环境
 
-- 所需要的库 : torch numpy gensim
+- 所需要的库：
+  + torch == 2.4.1
+  + numpy == 1.23.5
+  + gensim == 4.3.3
 
 - 建议python版本：3.10
 
@@ -47,7 +50,10 @@ This model is dedicated to training Chinese five character and seven character p
 
 ### Operating environment
 
-- Required library: torch numpy gensim
+- Required library:
+  + torch == 2.4.1
+  + numpy == 1.23.5
+  + gensim == 4.3.3
 
 - Suggested Python version: 3.10
 
