@@ -18,7 +18,7 @@
 ### 运行环境
 
 - 所需要的库：
-  + torch == 2.4.1
+  + pytorch == 2.4.1
   + numpy == 1.23.5
   + gensim == 4.3.3
 
@@ -51,7 +51,7 @@ This model is dedicated to training Chinese five character and seven character p
 ### Operating environment
 
 - Required library:
-  + torch == 2.4.1
+  + pytorch == 2.4.1
   + numpy == 1.23.5
   + gensim == 4.3.3
 
